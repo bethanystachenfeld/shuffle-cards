@@ -16,6 +16,7 @@ while !time_to_deal
 		time_to_deal = true
 	else
 		puts "that's too many players"
+		puts "HI BETHANY YOU ROCK!"
 	end
 end
 
