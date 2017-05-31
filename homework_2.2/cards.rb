@@ -9,7 +9,7 @@ time_to_deal = false
 while !time_to_deal
 	puts "how many people are playing?"
 	num_players = gets.chomp.to_i
-	puts "HUEY IS COOL"
+	puts "HUEY IS COOL - I am on the new for huey branch"
 	if num_players <= 0
 		puts "We need people to play!"
 	elsif num_players <= 52 / 2
